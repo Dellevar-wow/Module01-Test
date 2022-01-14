@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+p{
+    background: rgb(23, 238, 220);
+    color: rgb(76, 67, 134);
+}
+ul{
+    background: tomato;
+}
+ul li{
+    background: rgb(248, 148, 215);
+}
+ol li a{
+    background: yellow;
+}
+body{
+    background: rgb(176, 235, 227);
+}
